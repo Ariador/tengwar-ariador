@@ -1099,7 +1099,7 @@ StartChar: asciitilde
 Encoding: 126 126 23
 Width: 180
 GlyphClass: 2
-Flags: WO
+Flags: W
 HStem: 539 20G<51.2434 85.2968>
 VStem: 51 79<-343.43 316.108>
 AnchorPoint: "Middle" 60 280 basechar 0
