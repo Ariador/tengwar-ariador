@@ -1,7 +1,7 @@
 # Tengwar Ariador
 Tenwar Ariador Regular Open Type Font, v.1.2
 
-© Janyary 31st 2025 by Igor Voloshin (Ariador)
+© January 31 2025 by Igor Voloshin (Ariador)
 
 Foundry: FontForge
 
