@@ -17,4 +17,4 @@ Issues to solve are the following:
   2. Kerning is not set so far, not at all. Anyway, my LibreOffice still struggles to handle fonts kerning through all those years of development. Any inline format change disrupts the kerning not saying that Calc does not recognises kerning at all for the text operating formulae. For this reason I've concentrated on the glyphs form to compose them smoothly where it's possible without any kernings. Perhaps one day I'll try to do some, mostly for sarincë glyphs;
   3. The practice shows some tehtar are not placed conveniently for quick typing in Quenya. Should try to improve the layout a bit;
   4. Tiny improvements in some glyphs outline are possible to improve aesthetics;
-  5. Special custom keyboard layout for the font is under development, to be embedded in Ubuntu system as separate input source.
+  5. Special custom keyboard layout for the font is under development, to be embedded in Ubuntu system as separate input source allowing for typing all the glyphs using RightAlt key.
