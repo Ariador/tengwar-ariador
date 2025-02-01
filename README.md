@@ -1,5 +1,5 @@
 # Tengwar Ariador
-Tenwar Ariador Regular Open Type Font, v.1.2
+Tenwar Ariador Regular Open Type Font, v.1.21
 
 © January 31 2025 by Igor Voloshin (Ariador)
 
@@ -19,4 +19,4 @@ Issues to solve are the following:
   5. Tiny improvements in some glyphs outline are possible to get better aesthetics;
   6. Special custom keyboard layout for the font is under development, to be embedded in Ubuntu system as separate Input Source allowing for typing all the glyphs in (almost) one touch using RightAlt key.
 
-Edit of February 1 2025: Exchanged places for two pairs of glyphs to assign upper and lower yanta tehtar more handy - to Q and W letters in the keyboard.
+Edit of February 1 2025: Exchanged places for two pairs of glyphs to assign upper and lower yanta tehtar more handy - to Q and W letters in the keyboard. Also made space width 20% narrower, looks a tiny bit better.
