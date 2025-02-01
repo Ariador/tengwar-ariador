@@ -14,7 +14,7 @@ The goal of making another one Tengwar font is to achieve convenience of using t
 Issues to solve are the following:
   1. There are 12 unused glyph positions left in Latin-1 set, which could be filled with some missed tengwar, a matter of further studies;
   2. Kerning is not set so far, not at all. Anyway, LibreOffice still struggles to handle fonts kerning through all those years of development.
-     Any inline format change disrupts the kerning not saying that Calc does not recognises kerning at all for the text processing formulae. For this reason I've concentrated on the glyphs form to compose them smoothly where it's possible without using kernings. Perhaps one day I'll try to do some, mostly for those seven sarincë glyphs;
+     Any inline format change disrupts the kerning not saying that Calc does not recognise kerning at all for the text processing formulae. For this reason I've concentrated on the glyphs form to compose them smoothly where it's possible without using kernings. Perhaps one day I'll try to do some, mostly for those seven sarincë glyphs;
   4. The practice shows some tehtar are not placed conveniently for quick typing in Quenya. Should try to improve the layout a bit;
   5. Diphtongs and ligatures are subject for autoreplace processing, therefore could be replaced in the keyboard layout with one-letter glyphs to get the typing more handy;
   6. Tiny improvements in some glyphs outline are possible to get better aesthetics;
