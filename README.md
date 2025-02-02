@@ -21,3 +21,5 @@ Issues to solve are the following:
   7. Special custom keyboard layout for the font is under development, to be embedded in Ubuntu system as separate Input Source allowing for typing all the glyphs in (almost) one touch using RightAlt key.
 
 Edit of February 1 2025: Exchanged places for two pairs of glyphs to assign upper and lower yanta tehtar more handy - to Q and W letters in the keyboard. Also made space width 20% narrower, looks a tiny bit better.
+
+Edit of February 2 2025: Added the version in Dan Smith's keyboard layout - de facto 20 years standard for Tengwar. Perfect for true fans of Quenya, unconvenient for those wanting just type English with tengwar. See it in the files 'TengwarAriadorDS.otf', 'TengwarAriadorDS.sfd', '20250202 Tengwar Ariador Dan Smith's Layout.png'.
