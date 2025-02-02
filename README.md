@@ -22,4 +22,4 @@ Issues to solve are the following:
 
 Edit of February 1 2025: Exchanged places for two pairs of glyphs to assign upper and lower yanta tehtar more handy - to Q and W letters in the keyboard. Also made space width 20% narrower, looks a tiny bit better.
 
-Edit of February 2 2025: Added the version in Dan Smith's keyboard layout - de facto 20 years standard for Tengwar. Perfect for true fans of Quenya, unconvenient for those wanting just type English with tengwar. See it in the files 'TengwarAriadorDS.otf', 'TengwarAriadorDS.sfd', '20250202 Tengwar Ariador Dan Smith's Layout.png'.
+Edit of February 2 2025: Added the font version with Dan Smith's keyboard layout - de facto 20 years standard for tengwar fonts. Perfect for true fans of Quenya, unconvenient for those wanting just type English with tengwar. See it in the files 'TengwarAriadorDS.otf', 'TengwarAriadorDS.sfd', '20250202 Tengwar Ariador Dan Smith's Layout.png'.
