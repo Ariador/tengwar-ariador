@@ -5,7 +5,7 @@ FamilyName: Tengwar Ariador
 Weight: Regular
 Copyright: Copyright (c) 2025, Igor Voloshin
 UComments: "2025-1-16: Created with FontForge (http://fontforge.org)"
-Version: 1.21
+Version: 1.23
 ItalicAngle: 0
 UnderlinePosition: -100
 UnderlineWidth: 50
@@ -23,7 +23,7 @@ OS2Version: 0
 OS2_WeightWidthSlopeOnly: 0
 OS2_UseTypoMetrics: 0
 CreationTime: 1736987611
-ModificationTime: 1738381459
+ModificationTime: 1738649563
 PfmFamily: 17
 TTFWeight: 400
 TTFWidth: 5
@@ -52,18 +52,17 @@ MarkAttachClasses: 1
 DEI: 91125
 LangName: 1033
 Encoding: ISO8859-1
-Compacted: 1
 UnicodeInterp: none
 NameList: AGL For New Fonts
 DisplaySize: -72
 AntiAlias: 1
 FitToEm: 1
-WinInfo: 0 18 7
+WinInfo: 72 18 7
 BeginPrivate: 0
 EndPrivate
 TeXData: 1 0 0 346030 173015 115343 0 1048576 115343 783286 444596 497025 792723 393216 433062 380633 303038 157286 324010 404750 52429 2506097 1059062 262144
 AnchorClass2: "MarkMark" "'mkmk' +BB8EPgQ3BD0EMARHBDoEMAAA +BEMA +BD8EPgQ3BD0EMARHBDoEQwAA +BEMA +BBsEMARCBDgEPQRBBEwEOgQw, +BEQEVgQ7BEwEQgRABEMEMgQwBD0EPQRP 2-1" "Top" "'mark' +BCAEPgQ3BEIEMARIBEMEMgQwBD0EPQRP +BD8EPgQ3BD0EMARHBD4EOgAA +BEMA +BBsEMARCBDgEPQRBBEwEOgQw, +BEQEVgQ7BEwEQgRABEMEMgQwBD0EPQRP 0-1" "Middle" "'mark' +BCAEPgQ3BEIEMARIBEMEMgQwBD0EPQRP +BD8EPgQ3BD0EMARHBD4EOgAA +BEMA +BBsEMARCBDgEPQRBBEwEOgQw, +BEQEVgQ7BEwEQgRABEMEMgQwBD0EPQRP 0-1" "Bottom" "'mark' +BCAEPgQ3BEIEMARIBEMEMgQwBD0EPQRP +BD8EPgQ3BD0EMARHBD4EOgAA +BEMA +BBsEMARCBDgEPQRBBEwEOgQw, +BEQEVgQ7BEwEQgRABEMEMgQwBD0EPQRP 0-1"
-BeginChars: 256 174
+BeginChars: 256 178
 
 StartChar: zero
 Encoding: 48 48 0
@@ -340,6 +339,8 @@ Encoding: 32 32 6
 Width: 400
 Flags: W
 LayerCount: 2
+Fore
+Validated: 1
 Comment: "lusta nom+AOsA (empty space)"
 Colour: 999999
 EndChar
@@ -1089,6 +1090,7 @@ SplineSet
  40.0977371482 56.4691383114 47.0190873908 130.782583021 49 212 c 1
  49 228 l 1
 EndSplineSet
+Validated: 1
 Comment: "halla [h]"
 Colour: ff00
 EndChar
@@ -1118,6 +1120,7 @@ SplineSet
  -15 508.635285222 36.6561177209 559 65.830669776 559 c 0
  104.762938475 559 130 469.311365964 130 328 c 2
 EndSplineSet
+Validated: 1
 Comment: "+AOEA-ra (long carrier)"
 Colour: ff00
 EndChar
@@ -1554,20 +1557,20 @@ Encoding: 86 86 33
 Width: 510
 GlyphClass: 2
 Flags: W
-HStem: 0 114<181.435 273.678> 456 104<151.395 257.471>
+HStem: 0 114<181.435 273.678> 456 104<151.395 257.471> 540 20G<454.844 480.429>
 VStem: 40 59<215.7 374.715> 381 79<204.84 422.62> 383 142<41.224 96.716>
 AnchorPoint: "Middle" 228 280 basechar 0
-AnchorPoint: "Top" 228 800 basechar 0
-AnchorPoint: "Bottom" 228 -300 basechar 0
+AnchorPoint: "Top" 258 800 basechar 0
+AnchorPoint: "Bottom" 258 -300 basechar 0
 LayerCount: 2
 Fore
 SplineSet
-40 240.937427545 m 0xe8
+40 240.937427545 m 0xb4
  40 406.408592319 137.258508939 560 242.45566614 560 c 0
  267.705269339 560 285 551.15153315 285 524.497223319 c 0
  285 487.182441207 251.104601854 428 220.964233381 428 c 0
  216.899367063 428 214.961781899 429.076436203 212.932201338 432.679120399 c 0
- 205.743235914 445.440167005 186.460062618 456 170.646778476 456 c 0
+ 205.743235914 445.440167005 186.460062618 456 170.646778476 456 c 0xd4
  132.143599285 456 99 393.395423573 99 319.031103503 c 0
  99 213.050955931 166.316183642 114 239.10857058 114 c 0
  297.438134234 114 360.155824732 177.601038251 381 258 c 1
@@ -1575,13 +1578,13 @@ SplineSet
  483.216233927 560 486 557.83484861 486 553 c 2
  486 550 l 1
  465.088855707 453.410428741 460 412.308132648 460 340 c 2
- 460 310 l 2xf0
+ 460 310 l 2xb8
  460 221.134001579 466.153580829 171.62564673 481.676698374 132.813915815 c 0
  504 77 525 94 525 76.6775252517 c 0
  525 49.5543361565 473.514975422 0 444.226870064 0 c 0
  413.600177195 0 390.899997918 54.1875247267 383 148 c 1
  346.612450481 61.4566389812 270.206899315 0 199.387598487 0 c 0
- 107.805618056 0 40 102.774553154 40 240.937427545 c 0xe8
+ 107.805618056 0 40 102.774553154 40 240.937427545 c 0xb4
 EndSplineSet
 Validated: 1
 Comment: "anna [+AmYA]"
@@ -1627,6 +1630,7 @@ SplineSet
  -78 -354 -82 -356 -84 -356 c 0
  -86 -356 -90 -354 -92 -352 c 2
 EndSplineSet
+Validated: 1
 Comment: "unuyanta (y inferior) [y]"
 Colour: ff00ff
 EndChar
@@ -2206,6 +2210,7 @@ SplineSet
  78 854 82 856 84 856 c 0
  86 856 90 854 92 852 c 2
 EndSplineSet
+Validated: 1
 Comment: "amayanta (y superior) [y]"
 Colour: ff00ff
 EndChar
@@ -5729,6 +5734,7 @@ SplineSet
  192 -0 l 2
  106.112004422 0 40 104.822322801 40 241 c 2
 EndSplineSet
+Validated: 1
 Comment: "hwesta sindarinwa [wh]"
 Colour: ff00
 EndChar
@@ -5960,6 +5966,7 @@ SplineSet
  152.071798918 91.2551902186 175.252843157 93 217.224929867 93 c 0
  249 93 291 92 350 91 c 1
 EndSplineSet
+Validated: 1
 Comment: "anda ampa [+AlYA]"
 Colour: ff00
 EndChar
@@ -6883,30 +6890,17 @@ EndChar
 
 StartChar: sterling
 Encoding: 163 163 170
-Width: 0
-GlyphClass: 4
+Width: 1
+GlyphClass: 2
 Flags: W
-HStem: 20 21G<-74 -50>
-VStem: -11 60<201.227 381.723>
-AnchorPoint: "MarkMark" 0 634 mark 0
-AnchorPoint: "Middle" 0 229 mark 0
+AnchorPoint: "Middle" -242 280 basechar 0
+AnchorPoint: "Top" -242 800 basechar 0
+AnchorPoint: "Bottom" -242 -300 basechar 0
 LayerCount: 2
 Fore
-SplineSet
-49 369 m 6
- 49 329 l 6
- 49 216 -28 21 -72 20 c 4
- -76 20 -79 21 -79 24 c 4
- -79 26 -80 23 -72 37 c 4
- -27 117 -10 188 -10 300 c 4
- -10 327 -11 307 -11 338 c 6
- -11 348 l 6
- -11 368 10 388 31 388 c 4
- 43 388 49 382 49 369 c 6
-EndSplineSet
 Validated: 1
-Comment: "end+AOsA-or+AOsA (r middle) [r]"
-Colour: ff00ff
+Comment: "single width tehta base"
+Colour: ff00
 EndChar
 
 StartChar: Ucircumflex
@@ -7046,6 +7040,79 @@ SplineSet
 EndSplineSet
 Validated: 1
 Comment: "silm+AOsA sindarinwa [s']"
+Colour: ff00
+EndChar
+
+StartChar: section
+Encoding: 167 167 174
+Width: 0
+GlyphClass: 4
+Flags: W
+HStem: 20 21G<-74 -50>
+VStem: -11 60<201.227 381.723>
+AnchorPoint: "MarkMark" 0 634 mark 0
+AnchorPoint: "Middle" 0 229 mark 0
+LayerCount: 2
+Fore
+SplineSet
+49 369 m 6
+ 49 329 l 6
+ 49 216 -28 21 -72 20 c 4
+ -76 20 -79 21 -79 24 c 4
+ -79 26 -80 23 -72 37 c 4
+ -27 117 -10 188 -10 300 c 4
+ -10 327 -11 307 -11 338 c 6
+ -11 348 l 6
+ -11 368 10 388 31 388 c 4
+ 43 388 49 382 49 369 c 6
+EndSplineSet
+Validated: 1
+Comment: "end+AOsA-or+AOsA (r middle) [r]"
+Colour: ff00ff
+EndChar
+
+StartChar: cent
+Encoding: 162 162 175
+Width: 1
+GlyphClass: 2
+Flags: W
+AnchorPoint: "Middle" -120 280 basechar 0
+AnchorPoint: "Top" -120 800 basechar 0
+AnchorPoint: "Bottom" -120 -300 basechar 0
+LayerCount: 2
+Fore
+Validated: 1
+Comment: "narrow tehta base"
+Colour: ff00
+EndChar
+
+StartChar: currency
+Encoding: 164 164 176
+Width: 1
+GlyphClass: 2
+Flags: W
+AnchorPoint: "Middle" -402 280 basechar 0
+AnchorPoint: "Top" -422 800 basechar 0
+AnchorPoint: "Bottom" -422 -300 basechar 0
+LayerCount: 2
+Fore
+Validated: 1
+Comment: "double width tehta base"
+Colour: ff00
+EndChar
+
+StartChar: yen
+Encoding: 165 165 177
+Width: 1
+GlyphClass: 2
+Flags: W
+AnchorPoint: "Middle" -367 280 basechar 0
+AnchorPoint: "Top" -367 800 basechar 0
+AnchorPoint: "Bottom" -387 -300 basechar 0
+LayerCount: 2
+Fore
+Validated: 1
+Comment: "lambe wide tehta base"
 Colour: ff00
 EndChar
 EndChars
