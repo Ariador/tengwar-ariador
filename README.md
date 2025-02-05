@@ -26,4 +26,4 @@ Edit of February 2 2025: Build 1.22 - Added the font version with Dan Smith's ke
 
 Edit of February 4 2025: Build 1.23 - Any formatting of the tebgwa (base character) or tehta (accent) disrupts their combining because of non-printable formatting symbols inserted between the base and accent. To allow for different format of these two, 4 invisible glyphs added to place between format and accent: ¢ - narrow base; £ - single width base; ¤ - double width base and ¥ - lambe width base. Note: type these invisible bases after tengwa, then type tehta and only then go back to tengwa and format it. Now you can make tengwa and tehta different in color or even type tehtar over Latin letters. All four invisible glyphs are available with compose key: Compose + | + c = ¢; Compose + - + L = £; Compose + o + x = ¤; Compose + = + Y = ¥.
 
-Edit of February 5 2025: Added same invisible glyphs to Dan Smith's layout, too - replaced 'TengwarAriadorDS.otf' and 'TengwarAriadorDS.sfd'.
+Edit of February 5 2025: Added same invisible glyphs to Dan Smith's layout, too - replaced 'TengwarAriadorDS.otf' and 'TengwarAriadorDS.sfd'. Also replaced Namárië with full text.
