@@ -33,4 +33,4 @@ Edit of February 4 2025: Build 1.23 - Any formatting of the tengwa (base charact
 
 Edit of February 5 2025: Added the same invisible glyphs to Dan Smith's layout, too - replaced 'TengwarAriadorDS.otf' and 'TengwarAriadorDS.sfd'. Also replaced Namárië with full text.
 
-Edit of February 8 2025: Build 1.24 - Changed places of glyphs for dot and comma - sorry, just noticed it! Also changed glyph at \ key to lower thinnas accent. Replced layout picture. Also added glyphs tables in 'Tengwar Ariador Glyphs.pdf' and preparing more detailed glyphs names table.
+Edit of February 8 2025: Build 1.24 - Changed places of glyphs for dot and comma - sorry, just noticed it! Also changed glyph at \ key to lower thinnas accent. Replced layout picture. Also added glyphs tables in 'Tengwar Ariador Glyphs.pdf' and replaced glyphs names table with the actual one, 'Tengwar Ariador 1.24 Glyphs Names.pdf'.
