@@ -1,3 +1,6 @@
+![20250208](https://github.com/user-attachments/assets/c758e415-86b6-4b46-acb2-41acba715962)
+
+
 # Tengwar Ariador
 Tenwar Ariador Regular Open Type Font, v.1.21
 
