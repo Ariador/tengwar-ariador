@@ -1,4 +1,4 @@
-![20250208 Tengwar Ariador Regular](https://github.com/user-attachments/assets/fa48620f-8e2e-48d3-825e-80c55b80bcb4)
+![20250208 Tengwar Ariador Regular](https://github.com/user-attachments/assets/c58d1076-c7bf-4da3-8421-06c69ee04a4e)
 
 
 # Tengwar Ariador
