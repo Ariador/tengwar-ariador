@@ -23,7 +23,7 @@ OS2Version: 0
 OS2_WeightWidthSlopeOnly: 0
 OS2_UseTypoMetrics: 0
 CreationTime: 1736987611
-ModificationTime: 1739033334
+ModificationTime: 1739053565
 PfmFamily: 17
 TTFWeight: 400
 TTFWidth: 5
@@ -58,7 +58,7 @@ NameList: AGL For New Fonts
 DisplaySize: -72
 AntiAlias: 1
 FitToEm: 1
-WinInfo: 0 18 7
+WinInfo: 18 18 7
 BeginPrivate: 0
 EndPrivate
 TeXData: 1 0 0 346030 173015 115343 0 1048576 115343 783286 444596 497025 792723 393216 433062 380633 303038 157286 324010 404750 52429 2506097 1059062 262144
@@ -302,7 +302,7 @@ Flags: W
 HStem: 0 103<252.785 359.894> 446 114<234.317 328.959>
 VStem: 50 80<-344.883 349.381 427 730.134> 411 59<184.564 344.04>
 AnchorPoint: "Middle" 268 280 basechar 0
-AnchorPoint: "Top" 298 800 basechar 0
+AnchorPoint: "Top" 328 800 basechar 0
 AnchorPoint: "Bottom" 288 -300 basechar 0
 LayerCount: 2
 Fore
@@ -330,7 +330,6 @@ SplineSet
  167.521159828 504.017117542 244.129314771 560 311.618408646 560 c 0
  402.770043437 560 470 457.878546993 470 318.875778919 c 0
 EndSplineSet
-Validated: 1
 Comment: "anda +AP4A+gAA-l+AOsA [th]"
 Colour: ff00
 EndChar
@@ -475,7 +474,7 @@ Flags: W
 HStem: 0 87<130 170.049 172.451 364.317 394 484.398> 6 88<130.825 343.72> 446 114<228.151 330.365>
 VStem: 50 80<-344.883 6 92 354.737 424 730.134> 411 59<196.143 339.791>
 AnchorPoint: "Middle" 268 280 basechar 0
-AnchorPoint: "Top" 298 800 basechar 0
+AnchorPoint: "Top" 328 800 basechar 0
 AnchorPoint: "Bottom" 288 -300 basechar 0
 LayerCount: 2
 Fore
@@ -512,7 +511,6 @@ SplineSet
  390.062636707 376.641578843 335.221094397 446 272.433228027 446 c 0
  212.337557188 446 150.114053029 382.461914768 130 301 c 1
 EndSplineSet
-Validated: 1
 Comment: "anda formen [ph]"
 Colour: ff00
 EndChar
@@ -685,7 +683,7 @@ Flags: W
 HStem: 0 87<170.507 364.317 394 484.398> 6 88<102.855 343.72> 446 114<228.479 330.386>
 VStem: 50 80<110.953 354.737 425 728.69> 411 59<196.143 339.791>
 AnchorPoint: "Middle" 268 280 basechar 0
-AnchorPoint: "Top" 298 800 basechar 0
+AnchorPoint: "Top" 328 800 basechar 0
 AnchorPoint: "Bottom" 268 -300 basechar 0
 LayerCount: 2
 Fore
@@ -722,7 +720,6 @@ SplineSet
  390.062636707 376.641578843 335.221094397 446 272.433228027 446 c 0
  212.337557188 446 150.114053029 382.461914768 130 301 c 1
 EndSplineSet
-Validated: 1
 Comment: "formen [f]"
 Colour: ff00
 EndChar
@@ -961,7 +958,7 @@ Flags: W
 HStem: 0 103<252.785 359.894> 446 114<234.36 329.072>
 VStem: 50 80<109.074 351.242 428 728.69> 411 59<184.564 344.04>
 AnchorPoint: "Middle" 268 280 basechar 0
-AnchorPoint: "Top" 298 800 basechar 0
+AnchorPoint: "Top" 328 800 basechar 0
 AnchorPoint: "Bottom" 268 -300 basechar 0
 LayerCount: 2
 Fore
@@ -990,7 +987,6 @@ SplineSet
  167.036494979 504.022279167 244.217897945 560 311.667519943 560 c 0
  402.770043437 560 470 457.878546993 470 318.875778919 c 0
 EndSplineSet
-Validated: 1
 Comment: "+AP4A+gAA-l+AOsA [+A7gA]"
 Colour: ff00
 EndChar
@@ -1091,7 +1087,7 @@ SplineSet
  40.0977371482 56.4691383114 47.0190873908 130.782583021 49 212 c 1
  49 228 l 1
 EndSplineSet
-Validated: 524289
+Validated: 1
 Comment: "halla [h]"
 Colour: ff00
 EndChar
@@ -4091,7 +4087,7 @@ Flags: W
 HStem: 0 99<21.0981 146.802> 980 20G<133.957 167.095> 980 20G<133.957 167.095>
 VStem: 260 260<74.873 435.911>
 AnchorPoint: "Middle" 238 280 basechar 0
-AnchorPoint: "Top" 238 800 basechar 0
+AnchorPoint: "Top" 398 800 basechar 0
 AnchorPoint: "Bottom" 238 -300 basechar 0
 LayerCount: 2
 Fore
@@ -4116,7 +4112,7 @@ SplineSet
  75 944.054063797 119.042545521 1000 148.871661166 1000 c 0
  185.318539925 1000 226.432800991 916.476540511 276 742 c 2xd0
 EndSplineSet
-Validated: 1
+Validated: 524289
 Comment: "hyarmen [+AOcA]"
 Colour: ff00
 EndChar
@@ -4237,6 +4233,7 @@ SplineSet
  117.752929688 502.004882812 40.9580078125 696.51171875 40.9580078125 810 c 2
  40.9580078125 850 l 2
 EndSplineSet
+Validated: 524289
 Comment: "eques yesta (beginning of quotation)"
 Colour: 999999
 EndChar
@@ -4485,6 +4482,7 @@ SplineSet
  212.247070312 -137.004882812 289.041992188 -331.51171875 289.041992188 -445 c 2
  289.041992188 -485 l 2
 EndSplineSet
+Validated: 524289
 Comment: "eques metta (end of quotation)"
 Colour: 999999
 EndChar
@@ -4997,7 +4995,7 @@ SplineSet
  -41 -156 -20 -136 1.3203125 -136 c 4
  13.158203125 -136 19 -142.166015625 19 -155 c 6
 EndSplineSet
-Validated: 524289
+Validated: 1
 Comment: "unor+AOsA [r inferior]"
 Colour: ff00ff
 EndChar
