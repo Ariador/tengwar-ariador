@@ -2,7 +2,7 @@
 
 
 # Tengwar Ariador
-Tenwar Ariador Regular Open Type Font, v.1.21
+Tenwar Ariador Regular Open Type Font, v.1.24
 
 © January 31 2025 by Igor Voloshin (Ariador)
 
@@ -12,7 +12,7 @@ License: SIL Open Font License v.1.1
 
 Another font for the fictional Tengwar script developed by the great J.R.R.Tolkien for his immense Arda Universe. The font is free and open source (the FontForge SFD file is included). This work is to be considered as private fanfiction amusement. All the rights to the word "Tengwar" and the script itself belong to their respectful owners, the Tolkien Estate.
 
-The goal of making another one Tengwar font is to achieve convenience of using the font with generic US English keyboard layout. The image of the glyphs layout 'Tengwar Ariador US Layout.png' is enclosed. All the glyphs not directly available for typing are listed in the enclosed file '20250131 Tengwar Ariador Glyphs with Quenya Names.pdf' and are available for typing using Compose key. The glyphs span is limited by the Basic Latin and Latin-1 ISO 8859-1 character set. And of course, a text sample is included, the glorious 'Namárië', for your viewing pleasure.
+The goal of making another one Tengwar font is to achieve convenience of using the font with generic US English keyboard layout. The image of the glyphs layout 'Tengwar Ariador US Layout.png' is enclosed. All the glyphs not directly available for typing are listed in the enclosed file 'Tengwar Ariador 1.24 Glyphs Names.pdf' and are available for typing using Compose key. The glyphs span is limited by the Basic Latin and Latin-1 ISO 8859-1 character set. And of course, a text sample is included, the glorious 'Namárië', for your viewing pleasure.
 
 Issues to solve are the following:
   1. There are unused glyph positions left in Latin-1 set, which could be filled with some missed tengwar, a matter of further studies;
@@ -33,4 +33,6 @@ Edit of February 4 2025: Build 1.23 - Any formatting of the tengwa (base charact
 
 Edit of February 5 2025: Added the same invisible glyphs to Dan Smith's layout, too - replaced 'TengwarAriadorDS.otf' and 'TengwarAriadorDS.sfd'. Also replaced Namárië with full text.
 
-Edit of February 8 2025: Build 1.24 - Exchanged places of glyphs for dot and comma - sorry, just noticed it! Also changed glyph at \ key to lower thinnas accent, replaced layout picture, added glyphs tables in 'Tengwar Ariador Glyphs.pdf' and replaced glyphs names table with the actual 'Tengwar Ariador 1.24 Glyphs Names.pdf'.
+cBuild 1.24 - Exchanged places of glyphs for dot and comma - sorry, just noticed it! Also changed glyph at \ key to lower thinnas accent, replaced layout picture, added glyphs tables in 'Tengwar Ariador Glyphs.pdf' and replaced glyphs names table with the actual 'Tengwar Ariador 1.24 Glyphs Names.pdf'.
+
+Edit of February 12 2025: Added Cyrillic ЙЦУКЕНГ layout + RightAlt keys. Mainly follows Ukrainian Cyrillc, and there is a place for every glyph, the files are 'Tengwar Ariador UA Layout.png' and 'Tengwar Ariador UA RightAlt Layout.png'. Now working on the Input Source.
