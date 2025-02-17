@@ -3,7 +3,7 @@ INSTRUCTION FOR ADDING THE ARIADOR KEYBOARD LAYOUT TO AN UBUNTU SYSTEM
 © 2025 Igor Voloshin ariador@mail.com
 
 
-NOTE 1: The advanced user skills in Linus systems are strongly
+NOTE 1: Having the advanced user skills in Linux systems is strongly
         recommended to use this instruction. It's better to understand
         what's going on with the system.
 
