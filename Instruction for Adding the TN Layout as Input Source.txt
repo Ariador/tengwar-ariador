@@ -4,7 +4,7 @@ INSTRUCTION FOR ADDING THE ARIADOR KEYBOARD LAYOUT TO AN UBUNTU SYSTEM
 
 
 NOTE 1: Having the advanced user skills in Linux systems is strongly
-        recommended to use this instruction. It's better to understand
+        recommended for using this instruction. It's better to understand
         what's going on with the system.
 
 1. Download 'tn' layout file from this repository to your drive, say
