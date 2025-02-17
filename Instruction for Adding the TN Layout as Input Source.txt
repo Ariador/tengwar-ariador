@@ -1,0 +1,70 @@
+INSTRUCTION FOR ADDING THE ARIADOR KEYBOARD LAYOUT TO AN UBUNTU SYSTEM
+
+© 2025 Igor Voloshin ariador@mail.com
+
+
+NOTE 1: The advanced user skills in Linus systems are strongly
+        recommended to use this instruction. It's better to understand
+        what's going on with the system.
+
+1. Download 'tn' layout file from this repository to your drive, say
+   to 'Downloads' directory;
+
+2. Open your terminal and switch to your root privileged user account;
+
+3. Copy 'tn' file to the layouts directory:
+   cp -f /home/your_username/Downloads/tn /usr/share/X11/xkb/symbols/
+
+4. Switch to /usr/share/X11/xkb/rules/ directory and open the file
+   'evdev.lst' with your preferred editor. In the '! layout' section
+   find the appropriate place - it's between 'tj Tajik' and 'th Thai'
+   lines - and insert there the line 'tn Tengwar Ariador'.
+   Save the file;
+
+5. Open the file 'evdev.xml' and put there a reference to the layout:
+
+    <layout>
+      <configItem>
+        <name>tn</name>
+        <!-- Keyboard indicator for Tengwar Ariador layout -->
+        <shortDescription>tn</shortDescription>
+        <description>Tengwar Ariador</description>
+        <countryList>
+          <iso3166Id>UA</iso3166Id>
+        </countryList>
+        <languageList>
+          <iso639Id>ukr</iso639Id>
+        </languageList>
+      </configItem>
+    </layout>
+
+   NOTE 2: This reference should go strictly after some other layout
+         '</layout>' line and before some next layout '<layout>'
+         line. It's clear indeed, but please pay attention.
+
+   Save the file.
+
+6. It's done! Now you can go to the 'System Settings/Keyboard' and
+   press '+ Add Input Source'. Look for the 'Ukrainian' language
+   and for the 'Tengwar Ariador' item therein. Immediately after
+   adding it you will see 'Tengwar Ariador  tn' item in your input
+   sources list. Reboot is not required, just open your documents
+   processor, set font to 'Tengwar Ariador' and start typing.
+   
+   NOTE 3: RightAlt key used to switch to 3rd and 4th tiers of the
+           layout might overlap to your Compose key, which is often
+           set to the same RightAlt. To avoid them conflicting, you
+           could assign the Compose key function to some other key.
+           For me the Menu key works good.
+
+
+DISCLAIMER
+
+THIS INSTRUCTION IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND,
+EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO ANY WARRANTIES OF
+MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT
+OF COPYRIGHT, PATENT, TRADEMARK, OR OTHER RIGHT. IN NO EVENT SHALL THE
+AUTHOR BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, INCLUDING
+NY GENERAL, SPECIAL, INDIRECT, INCIDENTAL, OR CONSEQUENTIAL DAMAGES,
+HETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT
+OF THE USE OR INABILITY TO USE OF THIS INSTRUCTION.
