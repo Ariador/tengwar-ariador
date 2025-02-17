@@ -1,4 +1,3 @@
-
 // Keyboard layout for Tengwar Ariador font created © 2025 by Igor Voloshin <ivoloshin@hotmail.com>
 // Free for non-commercial use (SIL OFL v.1.1).
 //
@@ -23,7 +22,6 @@
 
 default partial alphanumeric_keys
 xkb_symbols "basic" {
-    include "us(basic)"
     name[Group1]="Tengwar Ariador";
 
 // NUMERIC ROW                                Note: carr.= carrier; sind.= sindarinwa
@@ -47,7 +45,7 @@ xkb_symbols "basic" {
  key <AD03> {[     u,     U, U002A, U00FA ]}; // u amarempe nq.[у↑] U unurempe nq.[у↓] * úrë [у]       ú nd.rempe nq.[у·]
  key <AD04> {[     c,     k,     q,     x ]}; // c calma [к]        k anca [нк]        q quessë [кв]   x anca anda [кс]
  key <AD05> {[     e,     E, U00EA, U00E9 ]}; // e amatecco [е↑]    E unutecco [е↓]    ê yanta nq.[е]  é nd.tecco [е·]
- key <AD06> {[     n,     B, U0024, U00С4 ]}; // n númen [н]        B ando anda [нд]   $ úryë [ё]    Ä nd.númoraiwë [ё·]
+ key <AD06> {[     n,     B, U0024, U00C4 ]}; // n númen [н]        B ando anda [нд]   $ úryë [ё]    Ä nd.númoraiwë [ё·]
  key <AD07> {[     V, U007B, U00E0, U00E2 ]}; // V anna [г]         { ungwë [нгв] à amä númoraiwë [ё↑] â unúmoraiwë [ё↓]
  key <AD08> {[ U003C,     S, U00F7, U00A2 ]}; // < silmë nq. [ш]    S essë [сс]        ÷ sarincë nq.[ш]    ¢ narrow base
  key <AD09> {[ U003E,     Y, U00D0, U00A3 ]}; // > essë nq. [щ]     Y hyarmen [шь]     Ð hyarmen telda [щ] £ single base
