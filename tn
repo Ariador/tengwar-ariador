@@ -1,0 +1,87 @@
+
+// Keyboard layout for Tengwar Ariador font created © 2025 by Igor Voloshin <ivoloshin@hotmail.com>
+// Free for non-commercial use (SIL OFL v.1.1).
+//
+// This work is a private fanfiction effort made for personal amusement and is stricly non-commercial.
+// Please note that to use the tengwar script invented by J.R.R.Tolkien in commercial products 
+// the permission from the Tolkien Estate is required.
+//
+// EXPLANATIONS:
+//
+// 1. Keys values order in the table: 1 = regular; 2 = Shift; 3 = RightAlt; 4 = RightAlt + Shift
+//
+// 2. The font is created using free FonForge tool to meet modern standards. Adding correct anchors to place
+//    the tehtar automatically allowed for reducing the number of glyphs to just 181. After that I've just
+//    reordered the layout placing the tengwar and tehtar in old good QWERTY order for the English (US)
+//    layout and added RightAlt typing option for those not fitting in a regular keyboard.
+//
+// 3. Having a plenty of keys available for the modernized font I couldn't hold myself to not add several
+//    new tehtar and a few other symbols to the font. They're all available for typing and can be seen here
+//    and on the enclosed layout picture. All glyphs are strictly within ISO 8859-1 (Latin-1) codepage.
+//    No Unicode codepages were used.
+// 
+
+default partial alphanumeric_keys
+xkb_symbols "basic" {
+    include "us(basic)"
+    name[Group1]="Tengwar Ariador";
+
+// NUMERIC ROW                                Note: carr.= carrier; sind.= sindarinwa
+ key <TLDE> {[ U0027, U0060, U00B3, U00B9 ]}; // ' putta   ` telco (short carr.)  ³ lambessë metta   ~ ára (long carr.)
+ key <AE01> {[     1, U0021, U00C1, U00C2 ]}; // 1 minë      ! vá tanna (exclam.) Á tëa cainen náha  Â tëa yunquë náha
+ key <AE02> {[     2, U0022, U00C0, U00C3 ]}; // 2 atta      " cú sind.(elv.par.) À tëa cainen       Ã tëa yunquë
+ key <AE03> {[     3, U0023, U00C7, U00C8 ]}; // 3 neldë     # nótë tanna (No.)   Ç tëa cainen yanda È tëa yunquë yanda
+ key <AE04> {[     4, U003B, U00C5        ]}; // 4 canta     ; tixë ampa (;)      Å tëa inga yanda (wide top line)
+ key <AE05> {[     5, U0025, U00B2, U00B9 ]}; // 5 lempë     % haranta %, [хт]    ² lambessë yesta   ¹ lambessë yesta
+ key <AE06> {[     6, U003A, U002F, U00B7 ]}; // 6 enquë     : pusta (stop)       / cirissë (slash)  · talca (bullet)
+ key <AE07> {[     7, U003F, U00B0        ]}; // 7 otso      ? cestanna (question mark) ° lesta (degree)
+ key <AE08> {[     8, U00AC, U00B4, U00BE ]}; // 8 tolto     ¬ tëa tarna (cross.) ´ tëa inga (top)   ¾ tëa tarna yanda
+ key <AE09> {[     9, U0028, U00F8        ]}; // 9 nertë     ( cú hyarya (()      ø cainen (0A₁₂)
+ key <AE10> {[     0, U0029, U00D8        ]}; // 0 órë       ) cú forya ())       Ø minquë (0B₁₂)
+ key <AE11> {[ U002D, U005F, U00BD, U00C6 ]}; // - lanwa (-) _ capitals bar       ½ hilyatëa (dash)  Æ tëa nún yanda
+ key <AE12> {[ U003D, U002B, U00B1        ]}; // = lanwa tanta (sect.end) + canta pusta (§ end) ± lempë pusta (text end)
+
+// TOP ROW                                    Note: nq.= nuquerna (turned) ; ld.= neldëa (triple); nd.= endëa (middle)
+ key <AD01> {[     Q,     W,     y, U00FD ]}; // Q amayanta [й↑]    W unuyanta [й↓]    y yanta [й]   ý nd.tantatixë [й·]
+ key <AD02> {[     C,     D, U00DF, U00DD ]}; // C calma anda [ц]   D þúlë anda [тс]   ß ornavala [сц] Ý pennavala [сп]
+ key <AD03> {[     u,     U, U002A, U00FA ]}; // u amarempe nq.[у↑] U unurempe nq.[у↓] * úrë [у]       ú nd.rempe nq.[у·]
+ key <AD04> {[     c,     k,     q,     x ]}; // c calma [к]        k anca [нк]        q quessë [кв]   x anca anda [кс]
+ key <AD05> {[     e,     E, U00EA, U00E9 ]}; // e amatecco [е↑]    E unutecco [е↓]    ê yanta nq.[е]  é nd.tecco [е·]
+ key <AD06> {[     n,     B, U0024, U00С4 ]}; // n númen [н]        B ando anda [нд]   $ úryë [ё]    Ä nd.númoraiwë [ё·]
+ key <AD07> {[     V, U007B, U00E0, U00E2 ]}; // V anna [г]         { ungwë [нгв] à amä númoraiwë [ё↑] â unúmoraiwë [ё↓]
+ key <AD08> {[ U003C,     S, U00F7, U00A2 ]}; // < silmë nq. [ш]    S essë [сс]        ÷ sarincë nq.[ш]    ¢ narrow base
+ key <AD09> {[ U003E,     Y, U00D0, U00A3 ]}; // > essë nq. [щ]     Y hyarmen [шь]     Ð hyarmen telda [щ] £ single base
+ key <AD10> {[     z,     Z, U00DA, U00A4 ]}; // z áre [з]          Z áze [дз]         Ú nún sarincë [з]   ¤ double base
+ key <AD11> {[     h,     H,     X, U00A5 ]}; // h halla [х]        H harma [кх]       X unquë anda [дх]   ¥ lambe base
+ key <AD12> {[ U00EC, U00EF, U00EE, U00CD ]}; // ì ld.amatixë [ї↑] ï ld.unutixë [ї↓] î wilya telcolóra [ї] Í endëa ï [ï·]
+ key <BKSL> {[     g,     K, U00A1, U00BF ]}; // g anga [ґ]         K unquë [нг]       ¡ vá yesta (!~) ¿ vá metta (~!)
+
+// MIDDLE ROW                           Note: nx.= neldetixë (triple dot); tl.= telcolóra (stemless); t.= tanta (double)
+ key <AC01> {[     f, U005D,     F        ]}; // f formen [ф]       ] hwesta [хв]      F formen anda [пф]
+ key <AC02> {[     i,     I,     G, U00ED ]}; // i amatixë [і↑]     I unutixë [і↓]     G vala tl. [і]     í nd.tixë [і·]
+ key <AC03> {[     v, U00E7,     w, U0026 ]}; // v vilya [в]        ç hwesta snd.[вх]  w wilya [ў]        & ta [вт]
+ key <AC04> {[     a,     A, U0040, U00E1 ]}; // a amä nx. [а↑]     A unu nx.[а↓]      @ anna tl.[а]      á endëa nx.[а·]
+ key <AC05> {[     p,     P, U00A9, U00AE ]}; // p parma [п]        P ampa [мп]        © amorë [р↑]     ® rómelambë [рл]
+ key <AC06> {[     r,     R, U005C, U00A7 ]}; // r rómen [р]        R orë [р]          \ unorë [р↓]       § endëorë [р·]
+ key <AC07> {[     o,     O,     0, U00F3 ]}; // o rempe [о↑]       O unurempe [о↓]    0 órë tl.[о]       ó nd.rempe [о·]
+ key <AC08> {[     l,     L, U00BA, U00B8 ]}; // l lambë [л]        L alda [лд]        º t.tecco [ее↑] ¸ t.unutecco [ее↑]
+ key <AC09> {[     d, U007C, U00D3, U00D5 ]}; // d ando [д]         | arda [рд]        Ó amanca [к↑]      Õ unanca [к↓]
+ key <AC10> {[     J,     j, U00DE, U00D4 ]}; // J áze nq. [ж]      j áre nq. [дж]  Þ nún sarincë nq.[ж]  Ô endëanca [к]
+ key <AC11> {[ U00E8, U00EB, U00D9, U00C9 ]}; // è amä moraiwë  [є↑] unu moraiwë [є↓]  Ù yentye [є]     É nd.moraiwë [є·]
+
+// BOTTOM ROW                           Note: y.= yanda (wide)
+ key <AB01> {[ U00E3, U00E5, U00FB, U00E4 ]}; // ã amacorco [я↑]    å unucorco [я↓]    û hanna tl.[я] ä nd.corco [я·]
+ key <AB02> {[ U007D, U00F0, U00E6        ]}; // } hwesta anda [ч]  ð tincohwesta [чт] æ yanta telda [я]
+ key <AB03> {[     s, U005E, U00FE, U00D1 ]}; // s silmë [с]        ^ silmëharma [ск]  þ sarincë [с] Ñ silmë sind.[сь]
+ key <AB04> {[     m, U00CB, U00D2, U00D6 ]}; // m malta [м] Ë maltahwesta [мх] Ò cúna amatëa y.[и↑] Ö cúna unutëa y.[и↓]
+ key <AB05> {[ U00F2, U00F6, U00DB, U00F5 ]}; // ò cúna amatëa [и↑] ö cúna unutëa [и↓] Û yantyë [и]  õ endëa cúnatëa [и·]
+ key <AB06> {[     t,     N, U00FF,     T ]}; // t tinco [т]        N anto [нт]       ÿ ampa anda [дн] T þúlë [хт]
+ key <AB07> {[ U00F1, U005B, U00D7, U00BC ]}; // ñ milya tanna [ь]  [ ñoldo [нь]  × cúnatëa telda [и]  ¼ t.nd.tecco [ее·]
+ key <AB08> {[     b,     M, U00AB, U00BB ]}; // b umbar [б]        M ñwalmë [нв]     « eques yesta    » eques metta
+ key <AB09> {[ U00F9, U00FC, U00F4, U00DC ]}; // ù amacorma [ю↑]    ü unucorma [ю↓]   ô anda rempe [ю] Ü endëa corma [ю·]
+ key <AB10> {[ U002E, U002C               ]}; // . pusta (period)   , t.tixë (comma)  
+
+include "level3(ralt_switch)"
+
+};
+

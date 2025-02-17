@@ -58,7 +58,7 @@ NameList: AGL For New Fonts
 DisplaySize: -72
 AntiAlias: 1
 FitToEm: 1
-WinInfo: 18 18 7
+WinInfo: 54 18 7
 BeginPrivate: 0
 EndPrivate
 TeXData: 1 0 0 346030 173015 115343 0 1048576 115343 783286 444596 497025 792723 393216 433062 380633 303038 157286 324010 404750 52429 2506097 1059062 262144
@@ -93,7 +93,7 @@ SplineSet
  346.052062505 560 415 460.316234946 415 319.239696036 c 4
 EndSplineSet
 Validated: 1
-Comment: "telcol+APMA-ra +APMA-r+AOsA (stemless r) - munta (zero) - standalone [o]"
+Comment: "+APMA-r+AOsA telcol+APMA-ra (stemless r) - munta (zero) - standalone [o]"
 Colour: ff00
 EndChar
 
@@ -125,7 +125,7 @@ SplineSet
  108.800524503 0 40 99.8850988272 40 239.916543379 c 4
 EndSplineSet
 Validated: 1
-Comment: "telcol+APMA-ra anna (stemless a) [a]"
+Comment: "anna telcol+APMA-ra (stemless a) [a]"
 Colour: ff00
 EndChar
 
@@ -182,7 +182,7 @@ SplineSet
  3.16869948936 983 6.09878030638 981.901219694 8 980 c 2
 EndSplineSet
 Validated: 1
-Comment: "amatix+AOsA [a superior]"
+Comment: "am+AOQA neldetix+AOsA [a superior]"
 Colour: ff00ff
 EndChar
 
@@ -239,7 +239,7 @@ SplineSet
  -3.16869948936 -483 -6.09878030638 -481.901219694 -8 -480 c 2
 EndSplineSet
 Validated: 1
-Comment: "unatix+AOsA [a inferior]"
+Comment: "unu neldetix+AOsA [a inferior]"
 Colour: ff00ff
 EndChar
 
@@ -290,7 +290,7 @@ SplineSet
  741 344.5227578 675.309418093 446 604.380193692 446 c 0
 EndSplineSet
 Validated: 1
-Comment: "anda ando [nd]"
+Comment: "ando anda [nd]"
 Colour: ff00
 EndChar
 
@@ -330,7 +330,7 @@ SplineSet
  167.521159828 504.017117542 244.129314771 560 311.618408646 560 c 0
  402.770043437 560 470 457.878546993 470 318.875778919 c 0
 EndSplineSet
-Comment: "anda +AP4A+gAA-l+AOsA [th]"
+Comment: "+AP4A+gAA-l+AOsA anda [th]"
 Colour: ff00
 EndChar
 
@@ -382,7 +382,7 @@ SplineSet
  269 0 187 6 122 6 c 0x78
 EndSplineSet
 Validated: 1
-Comment: "telcol+APMA-ra vala (stemless ng) [ng/+AUsA-g]"
+Comment: "vala telcol+APMA-ra (stemless ng) [ng/+AUsA-g]"
 Colour: ff00
 EndChar
 
@@ -462,7 +462,7 @@ SplineSet
  357.735282198 560 425 457.887295866 425 307.595340205 c 0
 EndSplineSet
 Validated: 1
-Comment: "anda rempe [+AOsA]"
+Comment: "anda rempe [+APwA]"
 Colour: ff00
 EndChar
 
@@ -511,7 +511,7 @@ SplineSet
  390.062636707 376.641578843 335.221094397 446 272.433228027 446 c 0
  212.337557188 446 150.114053029 382.461914768 130 301 c 1
 EndSplineSet
-Comment: "anda formen [ph]"
+Comment: "formen anda [ph]"
 Colour: ff00
 EndChar
 
@@ -1361,7 +1361,7 @@ SplineSet
  107.805618056 0 40 102.774553154 40 240.937427545 c 0
 EndSplineSet
 Validated: 1
-Comment: "anda calma [+AqYA]"
+Comment: "calma anda [+AqYA]"
 Colour: ff00
 EndChar
 
@@ -1628,7 +1628,7 @@ SplineSet
  -86 -356 -90 -354 -92 -352 c 2
 EndSplineSet
 Validated: 1
-Comment: "unuyanta (y inferior) [y]"
+Comment: "unu tantatix+AOsA (y inferior) [y]"
 Colour: ff00ff
 EndChar
 
@@ -1687,7 +1687,7 @@ SplineSet
  514 473 l 1xdc
 EndSplineSet
 Validated: 1
-Comment: "anda unqu+AOsA [+AqcA]"
+Comment: "unqu+AOsA anda [+AqcA]"
 Colour: ff00
 EndChar
 
@@ -2024,7 +2024,7 @@ SplineSet
  282.989362262 114 330.992742724 150.986211176 361 208 c 1
 EndSplineSet
 Validated: 1
-Comment: "anda anca [x]"
+Comment: "anca anda [x]"
 Colour: ff00
 EndChar
 
@@ -2208,7 +2208,7 @@ SplineSet
  86 856 90 854 92 852 c 2
 EndSplineSet
 Validated: 1
-Comment: "amayanta (y superior) [y]"
+Comment: "am+AOQA tantatix+AOsA (y superior) [y]"
 Colour: ff00ff
 EndChar
 
@@ -2502,7 +2502,7 @@ SplineSet
  2 856 6 854 8 852 c 2
 EndSplineSet
 Validated: 1
-Comment: "amitix+AOsA [i superior]"
+Comment: "amatix+AOsA [i superior]"
 Colour: ff00ff
 EndChar
 
@@ -2810,7 +2810,7 @@ SplineSet
  400 -117 450 -198 450 -308 c 0xf5
 EndSplineSet
 Validated: 1
-Comment: "ligature [rl]"
+Comment: "r+APMA-melamb+AOsA [rl]"
 Colour: ff00
 EndChar
 
@@ -3518,7 +3518,7 @@ SplineSet
  309 472.551767502 325.204259716 493 351.668499668 493 c 0xec
 EndSplineSet
 Validated: 1
-Comment: "+AOEA-ze [z]"
+Comment: "+AOEA-re [z]"
 Colour: ff00
 EndChar
 
@@ -3720,7 +3720,7 @@ SplineSet
  460 129.128672179 354.105552573 0 223.2018287 0 c 0xec
 EndSplineSet
 Validated: 1
-Comment: "+AOEA-re [+AnkA]"
+Comment: "+AOEA-ze [+AnkA]"
 Colour: ff00
 EndChar
 
@@ -4112,7 +4112,7 @@ SplineSet
  75 944.054063797 119.042545521 1000 148.871661166 1000 c 0
  185.318539925 1000 226.432800991 916.476540511 276 742 c 2xd0
 EndSplineSet
-Validated: 524289
+Validated: 1
 Comment: "hyarmen [+AOcA]"
 Colour: ff00
 EndChar
@@ -4148,7 +4148,7 @@ SplineSet
  196 99 260 217 260 348 c 0
 EndSplineSet
 Validated: 1
-Comment: "yanta [y,+AOQA]"
+Comment: "yanta [y]"
 Colour: ff00
 EndChar
 
@@ -4233,7 +4233,7 @@ SplineSet
  117.752929688 502.004882812 40.9580078125 696.51171875 40.9580078125 810 c 2
  40.9580078125 850 l 2
 EndSplineSet
-Validated: 524289
+Validated: 1
 Comment: "eques yesta (beginning of quotation)"
 Colour: 999999
 EndChar
@@ -4287,7 +4287,7 @@ SplineSet
  14 226 34 246 34 272.052021686 c 0
 EndSplineSet
 Validated: 1
-Comment: "end+AOsA-a +APwA (+APwA middle) [+APwA]"
+Comment: "end+AOsA-a corma (+APwA middle) [+APwA]"
 Colour: ff00ff
 EndChar
 
@@ -4313,7 +4313,7 @@ SplineSet
  140 -127 l 2
 EndSplineSet
 Validated: 1
-Comment: "n+APoA-n t+AOsA-a (lowline)"
+Comment: "t+AOsA-a n+APoA-n (lowline)"
 Colour: ff00ff
 EndChar
 
@@ -4363,7 +4363,7 @@ SplineSet
  283 114 331 151 361 208 c 1
 EndSplineSet
 Validated: 1
-Comment: "ligature [sc]"
+Comment: "silm+AOsA-harma [sc]"
 Colour: ff00
 EndChar
 
@@ -4448,7 +4448,7 @@ SplineSet
  120 668 l 6
 EndSplineSet
 Validated: 1
-Comment: "inga t+AOsA-a (top line)"
+Comment: "t+AOsA-a inga (top line)"
 Colour: ff00ff
 EndChar
 
@@ -4482,7 +4482,7 @@ SplineSet
  212.247070312 -137.004882812 289.041992188 -331.51171875 289.041992188 -445 c 2
  289.041992188 -485 l 2
 EndSplineSet
-Validated: 524289
+Validated: 1
 Comment: "eques metta (end of quotation)"
 Colour: 999999
 EndChar
@@ -4654,7 +4654,7 @@ SplineSet
  395 661 500 520 500 405 c 4xb0
 EndSplineSet
 Validated: 1
-Comment: "yanta nuquerna telda (+AO0A final) [+AO0A]"
+Comment: "yanta nuquerna telda (+ASsA final) [+ASsA]"
 Colour: ff00
 EndChar
 
@@ -4758,7 +4758,7 @@ SplineSet
  -143.713183733 758 -150 766.603011734 -150 783.618814022 c 0xb0
 EndSplineSet
 Validated: 1
-Comment: "am+APYA-tix+AOsA (+AOsA superior) [+AOsA]"
+Comment: "am+AOQA n+APoA-moraiw+AOsA (+AOsA superior) [+AOsA]"
 Colour: ff00ff
 EndChar
 
@@ -4968,7 +4968,7 @@ SplineSet
  60 318.66262824 89.8159994586 412.757275882 137 475 c 1xb8
 EndSplineSet
 Validated: 1
-Comment: "anda hwesta [+AqgA]"
+Comment: "hwesta anda [+AqgA]"
 Colour: ff00
 EndChar
 
@@ -5107,7 +5107,7 @@ SplineSet
  14 -354 34 -334 34 -307.947978314 c 0
 EndSplineSet
 Validated: 1
-Comment: "un+APwA-tix+AOsA (+APwA inferior) [+APwA]"
+Comment: "unucorma (+APwA inferior) [+APwA]"
 Colour: ff00ff
 EndChar
 
@@ -5139,7 +5139,7 @@ SplineSet
  143.713183733 959 150 950.396988266 150 933.381185978 c 0xd0
 EndSplineSet
 Validated: 1
-Comment: "am+AOsA-tix+AOsA (+AlsA superior) [+AlsA]"
+Comment: "am+AOQA moraiw+AOsA (+AlsA superior) [+AlsA]"
 Colour: ff00ff
 EndChar
 
@@ -5205,7 +5205,7 @@ SplineSet
  57 237 l 1
 EndSplineSet
 Validated: 1
-Comment: "end+AOsA-a e (middle e) [e]"
+Comment: "end+AOsA-a tecco (middle e) [e]"
 Colour: ff00ff
 EndChar
 
@@ -5233,7 +5233,7 @@ SplineSet
  14 746 34 766 34 792.052021686 c 0
 EndSplineSet
 Validated: 1
-Comment: "am+APwA-tix+AOsA (+APwA superior) [+APwA]"
+Comment: "amacorma (+APwA superior) [+APwA]"
 Colour: ff00ff
 EndChar
 
@@ -5271,7 +5271,7 @@ SplineSet
  96.7602872473 0 30 103.370767351 30 240.628720678 c 0
 EndSplineSet
 Validated: 1
-Comment: "telcol+APMA-ra hanna (stemless u) [+APwA]"
+Comment: "hanna telcol+APMA-ra (stemless a) [+AOQA]"
 Colour: ff00
 EndChar
 
@@ -5365,7 +5365,7 @@ SplineSet
  -3.16869948936 761 -6.09878030638 762.098780306 -8 764 c 2
 EndSplineSet
 Validated: 1
-Comment: "am+AO8A-tix+AOsA (+AO8A superior) [+AO8A]"
+Comment: "am+AOQA neldetix+AOsA (+AO8A superior) [+AO8A]"
 Colour: ff00ff
 EndChar
 
@@ -5405,7 +5405,7 @@ SplineSet
  184 473 l 1xd8
 EndSplineSet
 Validated: 1
-Comment: "telcol+APMA-ra wilya (stemless +AO8A) [+AO8A]"
+Comment: "wilya telcol+APMA-ra (stemless +AO8A) [+AO8A]"
 Colour: ff00
 EndChar
 
@@ -5462,7 +5462,7 @@ SplineSet
  2 -262 6 -264 8 -266 c 2
 EndSplineSet
 Validated: 1
-Comment: "un+AO8A-tix+AOsA (+AO8A inferior) [+AO8A]"
+Comment: "unu neldetix+AOsA (+AO8A inferior) [+AO8A]"
 Colour: ff00ff
 EndChar
 
@@ -5493,7 +5493,7 @@ SplineSet
  -3.16869948936 224 -6.09878030638 225.098780306 -8 227 c 2
 EndSplineSet
 Validated: 1
-Comment: "end+AOsA-a i (i middle) [i]"
+Comment: "end+AOsA-a tix+AOsA (i middle) [i]"
 Colour: ff00ff
 EndChar
 
@@ -5525,7 +5525,7 @@ SplineSet
  143.713183733 -272 150 -280.603011734 150 -297.618814022 c 0xa0
 EndSplineSet
 Validated: 1
-Comment: "un+APYA-tix+AOsA (+AOsA inferior) [+AOsA]"
+Comment: "unu n+APoA-moraiw+AOsA (+AOsA inferior) [+AOsA]"
 Colour: ff00ff
 EndChar
 
@@ -5582,7 +5582,7 @@ SplineSet
  -2 97 -6 99 -8 101 c 2
 EndSplineSet
 Validated: 1
-Comment: "end+AOsA-a a (middle a) [a]"
+Comment: "end+AOsA-a neldetix+AOsA (middle a) [a]"
 Colour: ff00ff
 EndChar
 
@@ -5617,7 +5617,7 @@ SplineSet
  -51.2435562254 850 -27.3136404073 865.953277212 -10 890 c 1x70
 EndSplineSet
 Validated: 1
-Comment: "am+AOQA-tix+AOsA (+AOQA superior) [+AOQA]"
+Comment: "amacorco (+AOQA superior) [+AOQA]"
 Colour: ff00ff
 EndChar
 
@@ -5652,7 +5652,7 @@ SplineSet
  51.2435562254 340 27.3136404073 324.046722788 10 300 c 1xb0
 EndSplineSet
 Validated: 1
-Comment: "end+AOsA-a +AOQA (+AOQA middle) [+AOQA]"
+Comment: "end+AOsA-a corco (+AOQA middle) [+AOQA]"
 Colour: ff00ff
 EndChar
 
@@ -5687,7 +5687,7 @@ SplineSet
  51.2431640625 -344 27.3134765625 -359.953125 10 -384 c 1xb0
 EndSplineSet
 Validated: 1
-Comment: "un+AOQA-tix+AOsA (+AOQA inferior) [+AOQA]"
+Comment: "unucorco (+AOQA inferior) [+AOQA]"
 Colour: ff00ff
 EndChar
 
@@ -5793,7 +5793,7 @@ SplineSet
  184 473 l 1x97
 EndSplineSet
 Validated: 1
-Comment: "ligature [+AqgA-t]"
+Comment: "tincohwesta [+AqgA-t]"
 Colour: ff00
 EndChar
 
@@ -5858,7 +5858,7 @@ SplineSet
  -143.713183733 -473 -150 -464.396988266 -150 -447.381185978 c 0xa0
 EndSplineSet
 Validated: 1
-Comment: "un+AOsA-tix+AOsA (+AlsA inferior) [+AlsA]"
+Comment: "unu moraiw+AOsA (+AlsA inferior) [+AlsA]"
 Colour: ff00ff
 EndChar
 
@@ -5902,7 +5902,7 @@ SplineSet
  -86 224 -90 226 -92 228 c 2
 EndSplineSet
 Validated: 1
-Comment: "end+AOsA-a y (middle y) [y]"
+Comment: "end+AOsA-a tantatix+AOsA (middle y) [y]"
 Colour: ff00ff
 EndChar
 
@@ -5964,7 +5964,7 @@ SplineSet
  249 93 291 92 350 91 c 1
 EndSplineSet
 Validated: 1
-Comment: "anda ampa [+AlYA]"
+Comment: "ampa anda [+AlYA]"
 Colour: ff00
 EndChar
 
@@ -5995,7 +5995,7 @@ SplineSet
  50.4775390625 665 50 665.286132812 50 667.450195312 c 0
 EndSplineSet
 Validated: 1
-Comment: "am+AO0A-tix+AOsA (+AO0A superior) [+AO0A]"
+Comment: "c+APoA-na amat+AOsA-a (+ASsA superior) [+ASsA]"
 Colour: ff00ff
 EndChar
 
@@ -6131,7 +6131,7 @@ SplineSet
  50.4775390625 -437 50 -436.713867188 50 -434.549804688 c 4
 EndSplineSet
 Validated: 1
-Comment: "un+AO0A-tix+AOsA (+AO0A inferior) [+AO0A]"
+Comment: "c+APoA-na unut+AOsA-a (+ASsA inferior) [+ASsA]"
 Colour: ff00ff
 EndChar
 
@@ -6162,7 +6162,7 @@ SplineSet
  50.4775390625 145 50 145.286132812 50 147.450195312 c 4
 EndSplineSet
 Validated: 1
-Comment: "end+AOsA-a +AO0A (middle +AO0A) [+AO0A]"
+Comment: "end+AOsA-a c+APoA-nat+AOsA-a (+ASsA middle) [+ASsA]"
 Colour: ff00ff
 EndChar
 
@@ -6318,7 +6318,7 @@ SplineSet
  232.424804688 -197.845703125 121.701171875 -200 40.189453125 -200 c 0
 EndSplineSet
 Validated: 1
-Comment: "yanda n+APoA-n t+AOsA-a (wide bottom line)"
+Comment: "t+AOsA-a n+APoA-n yanda (wide bottom line)"
 Colour: ff00ff
 EndChar
 
@@ -6375,7 +6375,7 @@ SplineSet
  2 318 6 316 8 314 c 2
 EndSplineSet
 Validated: 1
-Comment: "end+AOsA-a +AO8A (+AO8A middle) [+AO8A]"
+Comment: "end+AOsA-a neldetix+AOsA (+AO8A middle) [+AO8A]"
 Colour: ff00ff
 EndChar
 
@@ -6407,7 +6407,7 @@ SplineSet
  -143.713183733 154 -150 162.603011734 -150 179.618814022 c 0xa0
 EndSplineSet
 Validated: 1
-Comment: "end+AOsA-a +AlsA (+AlsA middle) [+AlsA]"
+Comment: "end+AOsA-a moraiw+AOsA (+AlsA middle) [+AlsA]"
 Colour: ff00ff
 EndChar
 
@@ -6438,7 +6438,7 @@ SplineSet
  143.713183733 325 150 316.396988266 150 299.381185978 c 0xa0
 EndSplineSet
 Validated: 1
-Comment: "end+AOsA-a +AOsA (middle +AOsA) [+AOsA]"
+Comment: "end+AOsA-a n+APoA-moraiw+AOsA (middle +AOsA) [+AOsA]"
 Colour: ff00ff
 EndChar
 
@@ -6469,7 +6469,7 @@ SplineSet
  222 -355 177 -334 116 -334 c 6
 EndSplineSet
 Validated: 1
-Comment: "un+AO0A-yanda (+AO0A inferior wide) [+AO0A]"
+Comment: "c+APoA-na unut+AOsA-a yanda (+AO0A inferior wide) [+AO0A]"
 Colour: ff00ff
 EndChar
 
@@ -6500,7 +6500,7 @@ SplineSet
  222 747 177 768 116 768 c 6
 EndSplineSet
 Validated: 1
-Comment: "am+AO0A-yanda (+AO0A superior wide) [+AO0A]"
+Comment: "c+APoA-na amat+AOsA-a yanda (+AO0A superior wide) [+AO0A]"
 Colour: ff00ff
 EndChar
 
@@ -6529,7 +6529,7 @@ SplineSet
  232.424804688 617.154296875 121.701171875 615 40.189453125 615 c 0
 EndSplineSet
 Validated: 1
-Comment: "yanda inga t+AOsA-a (wide top line)"
+Comment: "t+AOsA-a inga yanda (wide top line)"
 Colour: ff00ff
 EndChar
 
@@ -6554,7 +6554,7 @@ SplineSet
  -281 910 l 2
 EndSplineSet
 Validated: 1
-Comment: "cainen t+AOsA-a (decimal bar)"
+Comment: "t+AOsA-a cainen (decimal bar)"
 Colour: ff00ff
 EndChar
 
@@ -6578,7 +6578,7 @@ SplineSet
  -281 -410 l 2
 EndSplineSet
 Validated: 1
-Comment: "yunqu+AOsA t+AOsA-a (duodecimal bar)"
+Comment: "t+AOsA-a yunqu+AOsA (duodecimal bar)"
 Colour: ff00ff
 EndChar
 
@@ -6603,7 +6603,7 @@ SplineSet
  -93 910 l 6
 EndSplineSet
 Validated: 1
-Comment: "n+AOEA-ha cainen t+AOsA-a (short decimal bar)"
+Comment: "t+AOsA-a cainen n+AOEA-ha (short decimal bar)"
 Colour: ff00ff
 EndChar
 
@@ -6627,7 +6627,7 @@ SplineSet
  302.014648438 -340 303 -340.086914062 303 -343 c 2
 EndSplineSet
 Validated: 1
-Comment: "n+AOEA-ha yunqu+AOsA t+AOsA-a (short duodecimal bar)"
+Comment: "t+AOsA-a yunqu+AOsA n+AOEA-ha (short duodecimal bar)"
 Colour: ff00ff
 EndChar
 
@@ -6652,7 +6652,7 @@ SplineSet
  -503 910 l 2
 EndSplineSet
 Validated: 1
-Comment: "yanda cainen t+AOsA-a (long decimal bar)"
+Comment: "t+AOsA-a cainen yanda (long decimal bar)"
 Colour: ff00ff
 EndChar
 
@@ -6676,7 +6676,7 @@ SplineSet
  -511 -410 l 2
 EndSplineSet
 Validated: 1
-Comment: "yanda yunqu+AOsA t+AOsA-a (long duodecimal bar)"
+Comment: "t+AOsA-a yunqu+AOsA yanda (long duodecimal bar)"
 Colour: ff00ff
 EndChar
 
@@ -6701,7 +6701,7 @@ SplineSet
  330 318 l 2
 EndSplineSet
 Validated: 1
-Comment: "yanda tarna t+AOsA-a (wide crossing line)"
+Comment: "t+AOsA-a tarna yanda (wide crossing line)"
 Colour: ff00ff
 EndChar
 
@@ -6938,7 +6938,7 @@ SplineSet
  196 99 260 217 260 348 c 4xe8
 EndSplineSet
 Validated: 1
-Comment: "yanty+AOsA - standalone +AOQA"
+Comment: "yanty+AOsA - standalone +ASsA"
 Colour: ff00
 EndChar
 
