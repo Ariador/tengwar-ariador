@@ -25,7 +25,7 @@ xkb_symbols "basic" {
     name[Group1]="Tengwar Ariador";
 
 // NUMERIC ROW                                Note: carr.= carrier; sind.= sindarinwa
- key <TLDE> {[ U0027, U0060, U00B3, U00B9 ]}; // ' putta   ` telco (short carr.)  ³ lambessë metta   ~ ára (long carr.)
+ key <TLDE> {[ U0027, U0060, U00B3, U007E ]}; // ' putta   ` telco (short carr.)  ³ lambessë metta   ~ ára (long carr.)
  key <AE01> {[     1, U0021, U00C1, U00C2 ]}; // 1 minë      ! vá tanna (exclam.) Á tëa cainen náha  Â tëa yunquë náha
  key <AE02> {[     2, U0022, U00C0, U00C3 ]}; // 2 atta      " cú sind.(elv.par.) À tëa cainen       Ã tëa yunquë
  key <AE03> {[     3, U0023, U00C7, U00C8 ]}; // 3 neldë     # nótë tanna (No.)   Ç tëa cainen yanda È tëa yunquë yanda
