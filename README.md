@@ -2,7 +2,7 @@
 
 
 # Tengwar Ariador
-Tenwar Ariador Regular Open Type Font, v.1.24
+Tengwar Ariador Regular Open Type Font, v.1.24
 
 © January 31 2025 by Igor Voloshin (Ariador)
 
