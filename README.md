@@ -22,8 +22,8 @@ Edit of February 4 2025: Build 1.23 - Any formatting of the tengwa (base charact
 
 Edit of February 5 2025: Added the same invisible glyphs to Dan Smith's layout, too - replaced 'TengwarAriadorDS.otf' and 'TengwarAriadorDS.sfd'. Also replaced Namárië with full text.
 
-cBuild 1.24 - Exchanged places of glyphs for dot and comma - sorry, just noticed it! Also changed glyph at \ key to lower thinnas accent, replaced layout picture, added glyphs tables in 'Tengwar Ariador Glyphs.pdf' and replaced glyphs names table with the actual 'Tengwar Ariador 1.24 Glyphs Names.pdf'.
-
 Edit of February 12 2025: Added Cyrillic ЙЦУКЕНГ layout + RightAlt keys. Mainly follows Ukrainian Cyrillc, and there is a place for every glyph, the files are 'Tengwar Ariador UA Layout.png' and 'Tengwar Ariador UA RightAlt Layout.png'. Now working on the Input Source.
 
 Edit of February 17 2025: The input source added for using with Ubuntu operating system. Replaced Cyrillic layouts with TN (Tengwar) layouts, which still follow Ukrainian Cyrillic ЙЦУКЕНГ layout + RightAlt keys. The instruction for adding the TN Input Source is in separate file here. WARNING: You have to be advanced user and know what are you doing when handling keyboard layout files!
+
+Edit of February 18 2025: Build 1.24 - Exchanged places of glyphs for dot and comma - sorry, just noticed it! Also changed glyph at \ key to lower thinnas accent, replaced layout picture, added glyphs tables in 'Tengwar Ariador Glyphs.pdf' and replaced glyphs names table with the actual 'Tengwar Ariador 1.24 Glyphs Names.pdf'.
